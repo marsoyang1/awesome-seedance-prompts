@@ -654,8 +654,20 @@ awesome-seedance-prompts/
 
 <div align="center">
 
-**Built with ❤️ for the Seedance 2.0 community**
+### 🤝 贡献与交流
 
-[GitHub](https://github.com/marsoyang1/awesome-seedance-prompts)
+**欢迎提交 PR 分享你的 Seedance 2.0 作品！**
+
+- ⭐ Star 本项目支持我们
+- 🐛 发现问题请提 Issue
+- 💡 有好想法？欢迎交流讨论
+
+**让我们一起探索 AI 视频创作的无限可能！**
+
+---
+
+[GitHub](https://github.com/marsoyang1/awesome-seedance-prompts) ·
+[Report Bug](https://github.com/marsoyang1/awesome-seedance-prompts/issues) ·
+[Request Feature](https://github.com/marsoyang1/awesome-seedance-prompts/issues)
 
 </div>" 

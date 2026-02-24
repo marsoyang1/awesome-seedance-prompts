@@ -658,8 +658,14 @@ awesome-seedance-prompts/
     ├── video7.mp4/gif # 揉面生活篇
     ├── video8.mp4/gif # 韩剧美食篇
     ├── video9.mp4/gif # 滑雪运动篇
-    └── video10.mp4/gif # 东方玄幻篇
-    └── video11.mp4/gif # 冰火大战篇
+    ├── video10.mp4/gif # 东方玄幻篇
+    ├── video11.mp4/gif # 冰火大战篇
+    ├── video12.mp4/gif # 功夫厨艺篇
+    ├── video13.mp4/gif # 仙侠对决篇
+    ├── video14.mp4/gif # 户外徒步篇
+    ├── video15.mp4/gif # K-pop女团篇
+    ├── video16.mp4/gif # 雨夜回眸篇
+    └── video17.mp4/gif # 西域舞蹈篇
 ```
 
 ---
@@ -951,6 +957,102 @@ A beautiful Chinese woman named Deji Lamu, long black hair, wearing a traditiona
 | [00:10] | 镜头6：结尾定格 | 排阵近景定格 | 最后一声脚步/砸点收尾 |
 
 ---
+
+### 🎬 视频 16 | 雨夜回眸篇
+
+**雨夜街头 - 少女回眸的浪漫瞬间**
+
+![雨夜回眸篇](source/video16.gif)
+
+| 项目 | 详情 |
+|------|------|
+| **时长** | 约10秒 |
+| **风格** | 低质量智能手机vlog，手持摇晃POV视角，高ISO噪点，动态运动模糊，业余构图，镜头光晕，大量视频颗粒，原生未修饰的快照美学 |
+| **主角** | 绝美女孩，冷白皮，纯真而诱惑的气质，宽松复古粗针毛衣，半湿的松散长发 |
+| **场景** | 雨夜湿滑街道，霓虹灯光反射在湿漉漉的地面上 |
+| **视频来源** | [X (Twitter)](https://x.com/i/status/2025949647379013915) |
+| **本地视频** | `source/video16.mp4` / `source/video16.gif` |
+
+---
+
+#### 📝 核心提示词
+
+**风格设置：**
+> 低质量智能手机vlog，手持摇晃POV视角，高ISO噪点，动态运动模糊，业余构图，镜头光晕，大量视频颗粒，原生未修饰的快照美学。
+
+**场景描述：**
+> 雨夜湿滑街道，彩色霓虹灯光反射在湿漉漉的地面上。
+
+**人物描述：**
+> 年轻绝美女孩，冷白皮肤质，纯真而诱惑的气质，宽松复古粗针毛衣，松散半绑的长发，微湿。
+
+---
+
+#### 📋 完整提示词原文
+
+```
+Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-beautiful girl with cool white skin and an innocent yet seductive aura is walking ahead on a wet street on a rainy night, wearing an oversized vintage chunky winter sweater. Colorful neon lights reflect on the wet pavement. High ISO noise, dynamic motion blur. She suddenly stops, turns her head back to look directly at the camera with a delayed autofocus effect, giving a casual, sweet, and slightly shy smile. Her loosely semi-tied long hair is slightly wet from the drizzle. She then steps very close to the lens, playfully tucking a wet strand of hair behind her ear. Amateur framing, lens flares, heavy video grain, raw and unpolished snapshot aesthetic throughout the entire continuous shot.
+```
+
+---
+
+#### 🎬 分镜脚本
+
+| 时间段 | 画面描述 |
+|--------|----------|
+| [00:00-00:03] | 女孩走在雨夜湿滑街道上，彩色霓虹灯反射在地面，手持镜头晃动 |
+| [00:03-00:06] | 突然停下脚步，回头看镜头，延迟对焦效果，轻微害羞的微笑 |
+| [00:06-00:10] | 走近镜头，拨弄一下微湿的发丝，俏皮可爱的动作 |
+
+---
+
+### 🎬 视频 17 | 西域舞蹈篇
+
+**玉足特写开始 - 西域风格舞蹈**
+
+![西域舞蹈篇](source/video17.gif)
+
+| 项目 | 详情 |
+|------|------|
+| **时长** | 约10秒 |
+| **风格** | 专业摄影，流畅镜头运动，仙气满满氛围 |
+| **角色** | 角色全身出镜，扭动婀娜多姿的舞姿 |
+| **场景** | 西域风格场景 |
+| **视频来源** | [X (Twitter)](https://x.com/i/status/2025907674286788667) |
+| **本地视频** | `source/video17.mp4` / `source/video17.gif` |
+
+---
+
+#### 📝 核心提示词
+
+**风格设置：**
+> 专业摄影，流畅镜头运动，仙气满满氛围。
+
+**场景描述：**
+> 西域风格场景。
+
+**角色描述：**
+> 角色全身出镜，扭动婀娜多姿的舞姿。
+
+---
+
+#### 📋 完整提示词原文
+
+```
+摄像机对着一双玉足，镜头环绕着角色，缓慢往上拉，来到角色屁股，最后绕到角色下巴，看不到整张脸，镜头拉远，看到整个角色上半身，角色在场景内开始扭动婀娜多姿的身躯跳舞，西域风格舞蹈
+```
+
+---
+
+#### 🎬 分镜脚本
+
+| 时间段 | 镜头描述 | 画面要点 |
+|--------|----------|----------|
+| [00:00-00:02] | 特写 | 玉足特写开始 |
+| [00:02-00:04] | 上升 | 镜头环绕缓慢上升至臀部 |
+| [00:04-00:06] | 绕行 | 绕到下巴位置，不露全脸 |
+| [00:06-00:08] | 拉远 | 镜头拉远看到整个上半身 |
+| [00:08-00:10] | 舞蹈 | 角色开始扭动婀娜多姿的舞姿 |
 
 ## 💡 提示词编写技巧
 

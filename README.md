@@ -1067,9 +1067,9 @@ Low quality smartphone vlog footage, shaky handheld camera POV. A young, ultra-b
 
 | 指标 | 数量 |
 |------|------|
-| 视频总数 | 15 |
+| 视频总数 | 17 |
 | 平均时长 | 14秒 |
-| 包含分镜 | 49个镜头 |
+| 包含分镜 | 57个镜头 |
 
 ---
 
